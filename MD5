@@ -1,0 +1,9 @@
+9814f4075df4e0079364291862391e64 *DESCRIPTION
+fa95be8654a7495ceddd9a09e6d17d83 *NAMESPACE
+27e7ceff9b1e30cf43d384460c8986e2 *R/data.R
+2824f049a05769eac460c77b07f4686a *R/series.R
+a4e858c601b297833ee402f5575eaa5c *data/BanxicoCatalog.RData
+6f59f4354374b1d39d8c44f949cece49 *man/BanxicoCatalog.Rd
+db8eda6d34f6ee179102281ff9d57985 *man/banxico_series.Rd
+f18fa5c69c4df01cea24bc75b602344c *man/compact_banxico_series.Rd
+f6a36e4926cb79c6b07b54f73cd18c92 *man/helpers.Rd
